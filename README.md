@@ -1,5 +1,5 @@
 ``` kotlin
-fun getAboutMe() {
+fun getAboutMe() : Developer {
     val name = "Irineu A. Silva"
     val contact = "mmmirinesilva@gmail.com"
 
@@ -9,5 +9,7 @@ fun getAboutMe() {
         "Android" to "2-3 years",
         "C" to "basic"
     )
+    
+    return Developer(name, contact, skills)
 }
 ```
