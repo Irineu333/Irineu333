@@ -23,7 +23,7 @@ fun getAbout(): Developer {
         "Android" to Android(
             "2-3 years",
             listOf("MVP", "MVVM", "Clean Architecture"),
-            listOf("JetPack Components", "Achitecture Components")
+            listOf("JetPack Components", "Architecture Components")
         )
     )
 
