@@ -1,7 +1,6 @@
 
 ``` kotlin
 Irineu.kt
-...
 
 fun getAbout(): Developer {
     val name = "Irineu A. Silva"
@@ -29,18 +28,15 @@ fun getAbout(): Developer {
 
     return Developer(name, contact, skills, frameworks)
 }
-...
 ```
 ``` kotlin
 frameworks.kt
-...
 
 data class Android(
     val experience : String, 
     val architectures : List<String>, 
     val components : List<String>
 ) : Framework
-...
 ```
 ``` java
 SpringBoot.java
