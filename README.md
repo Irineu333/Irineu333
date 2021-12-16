@@ -5,9 +5,9 @@ fun getAbout(): Developer {
     val contact = "mmmirinesilva@gmail.com"
 
     val skills = mapOf(
-        "Java" to "2-3 years, 7 ~ 11",
+        "Java" to "2-3 years, JDK 7 ~ 11",
         "Kotlin" to "1-2 years",
-        "C" to "only basic",
+        "C/C++" to "only basic",
         "JavaScript" to "only basic",
         "English" to "only basic"
     )
@@ -18,7 +18,7 @@ fun getAbout(): Developer {
             listOf("PostgreSQL")
         ),
         "Android" to Android(
-            "2-3 years",
+            "2-3 years, SDK 19 ~ 31",
             listOf("MVP", "MVVM", "Clean Architecture"),
             listOf("JetPack Components", "Architecture Components")
         )
