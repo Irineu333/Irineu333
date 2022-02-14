@@ -15,7 +15,7 @@ fun getAbout(): Developer {
     val frameworks = mapOf(
         "Spring Boot" to SpringBoot(
             "learning",
-            listOf("PostgreSQL")
+            listOf("PostgreSQL", "MongoDB"),
         ),
         "Android" to Android(
             "2-3 years, SDK 19 ~ 31",
