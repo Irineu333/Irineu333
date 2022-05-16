@@ -27,6 +27,32 @@ fun getAbout(): Developer {
     return Developer(name, contact, skills, frameworks)
 }
 ```
+##
+
+### Open Source Projects
+**[Database Rules](https://github.com/Irineu333/DatabaseRules)** <br>
+Firebase rules manager for android. <br>
+_[Play Store >](https://play.google.com/store/apps/details?id=com.neo.fbrules)_
+
+**[Neo Regex](https://github.com/Irineu333/NeoRegex)** <br>
+Regular expression interpreter for android. <br>
+_[Play Store >](https://play.google.com/store/apps/details?id=com.neo.regex)_
+
+**[Highlight](https://github.com/Irineu333/Highlight)** | **[Highlight-KT](https://github.com/Irineu333/Highlight-KT)**  <br>
+Android Library to highlight text snippets.
+
+### Private Projects
+**Word Serach** - Developing  <br>
+Word search game for android.
+
+**Neo JSON** - Developing  <br>
+JSON Interpreter and Editor for Android.
+
+**App Chat Project** - Developing  <br>
+Chat for android apps.
+
+**Vault** - Developing  <br>
+Piggy bank and goals manager for android.
 
 ##
 
