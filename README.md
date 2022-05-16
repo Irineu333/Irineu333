@@ -42,14 +42,11 @@ _[Play Store >](https://play.google.com/store/apps/details?id=com.neo.regex)_
 Android Library to highlight text snippets.
 
 ### Private Projects
-**Word Serach** - Developing  <br>
+**Word Search** - Developing  <br>
 Word search game for android.
 
-**Neo JSON** - Developing  <br>
+**Neo JSON** - Soon  <br>
 JSON Interpreter and Editor for Android.
-
-**App Chat Project** - Developing  <br>
-Chat for android apps.
 
 **Vault** - Developing  <br>
 Piggy bank and goals manager for android.
