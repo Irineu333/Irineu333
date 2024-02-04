@@ -30,4 +30,4 @@ fun getAbout(): Developer {
 }
 ```
 
-If you're looking for my projects, check out [my serious projects](PROJECTS.md) here, which solve real problems, not just served for study.
+If you're looking for my projects, check out [my serious projects](PROJECTS.md).

@@ -1,47 +1,26 @@
-## My projects
+## My Projects
 
 Here I list only my serious projects, which solve a real problem, not just served for study.
 
-### Open Source
-
-**Neo Regex** <br>
-Regular expression interpreter for android. <br>
-_[Repository](https://github.com/Irineu333/NeoRegex)_ |
-_[Play Store](https://play.google.com/store/apps/details?id=com.neo.regex)_
-
-**Highlight** <br>
-Android Library to highlight text snippets. <br>
-_[Repository](https://github.com/NeoUtils/Highlight)_
-
-**Otaku Plus** - Paused <br>
-Universal manga reader. <br>
-_[Repository](https://github.com/Irineu333/OtakuPlus)_
-
-**Speak Touch** - Developing MVP <br>
-Screen reader for android. <br>
-_[Repository](https://github.com/NeoA11y/SpeakTouch)_
-
-**EnvManager** <br>
-A simple command-line environment manager. <br>
-_[Repository](https://github.com/Irineu333/EnvManager)_
+| Name        | Description                                 | Source Code                                           | Publication                                                               | Status         |
+|-------------|---------------------------------------------|-------------------------------------------------------|---------------------------------------------------------------------------|----------------|
+| Neo Regex   | Regular expression interpreter for Android. | [Repository](https://github.com/Irineu333/NeoRegex)   | [Play Store](https://play.google.com/store/apps/details?id=com.neo.regex) | Active         |
+| Highlight   | Android library to highlight text snippets. | [Repository](https://github.com/NeoUtils/Highlight)   |                                                                           | Active         |
+| Otaku Plus  | Universal manga reader.                     | [Repository](https://github.com/Irineu333/OtakuPlus)  |                                                                           | Paused         |
+| Speak Touch | Screen reader for Android.                  | [Repository](https://github.com/NeoA11y/SpeakTouch)   |                                                                           | Developing MVP |
+| EnvManager  | A simple command-line environment manager.  | [Repository](https://github.com/Irineu333/EnvManager) |                                                                           | Active         |
 
 ### Private
 
-**Tic Tac Toe** - Working on version 2.0 <br>
-A tic-tac-toe game for android. <br>
-_[Play Store](https://play.google.com/store/apps/details?id=com.neo.hash)_
-
-**Word Search** - Paused <br>
-Word search game for android.
-
-**Minesweeper** - Soon <br>
-A simple minesweeper game. <br>
-
-**Neo JSON** - Soon <br>
-JSON Interpreter and Editor for Android.
+| Name        | Description                              | Publication                                                              | Status      |
+|-------------|------------------------------------------|--------------------------------------------------------------------------|-------------|
+| Tic Tac Toe | A tic-tac-toe game for Android.          | [Play Store](https://play.google.com/store/apps/details?id=com.neo.hash) | Active      |
+| Word Search | Word search game for Android.            |                                                                          | Paused      |
+| Minesweeper | A simple minesweeper game.               |                                                                          | Coming Soon |
+| Neo JSON    | JSON Interpreter and Editor for Android. |                                                                          | Coming Soon |
 
 ### Deprecated
 
-**Database Rules** <br>
-Firebase rules manager for android. <br>
-_[Repository](https://github.com/Irineu333/DatabaseRules)_
+| Name           | Description                         | Source Code                                              | Status       |
+|----------------|-------------------------------------|----------------------------------------------------------|--------------|
+| Database Rules | Firebase rules manager for Android. | [Repository](https://github.com/Irineu333/DatabaseRules) | Discontinued |
