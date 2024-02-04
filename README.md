@@ -1,16 +1,33 @@
-### Hi there 👋
+```kotlin
+fun getAbout(): Developer {
 
-<!--
-**Irineu333/Irineu333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    val name = "Irineu A. Silva"
+    
+    val contacts = mapOf(
+        "email" to "mmmirinesilva@gmail.com",
+        "linkedin" to "irineu333"
+    )
 
-Here are some ideas to get you started:
+    val languages = mapOf(
+        "Java" to "2019~Today, JDK 7 ~ 17",
+        "Kotlin" to "2020~Today",
+        "C/C++" to "basic"
+    )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    val frameworks = mapOf(
+        "Spring Boot" to Framework(
+            experience = "basic",
+            architectures = listOf("MVC")
+        ),
+        "Android" to Framework(
+            experience = "2019~Today, SDK 19 ~ 33",
+            architectures = listOf("MVP", "MVVM", "Clean Architecture", "MVI"),
+            ui = listOf("view/xml", "JetPack Compose")
+        )
+    )
+
+    return Developer(name, contacts, languages, frameworks)
+}
+```
+
+If you're looking for my projects, check out [my serious projects](PROJECTS.md) here, which solve real problems, not just served for study.
